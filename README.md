@@ -31,7 +31,20 @@ Includes the following packages and their functionalities used in code:
 ### Example 
 ![Screenshot (14)](https://user-images.githubusercontent.com/55368407/70726634-64e72f00-1ccc-11ea-836e-0b17ccc9e1f8.png)
 
-![Screenshot (15)](https://user-images.githubusercontent.com/55368407/70727072-0c646180-1ccd-11ea-8f80-0129cacaebea.png)
+
+![Screenshot (25)](https://user-images.githubusercontent.com/55368407/70740468-3dea2680-1ce7-11ea-80dc-847ddcdad628.png)
+
+
+![Screenshot (20)](https://user-images.githubusercontent.com/55368407/70739974-10e94400-1ce6-11ea-87fb-f96d9d93ed01.png)
+
+
+![Screenshot (21)](https://user-images.githubusercontent.com/55368407/70740053-4aba4a80-1ce6-11ea-8d13-87508d342c5e.png)
+
+
+![Screenshot (22)](https://user-images.githubusercontent.com/55368407/70740136-7dfcd980-1ce6-11ea-8bd9-b4859fea438c.png)
+
+
+![Screenshot (23)](https://user-images.githubusercontent.com/55368407/70740222-af75a500-1ce6-11ea-9927-09fc6e8e6fca.png)
 
 
 ### Errors
