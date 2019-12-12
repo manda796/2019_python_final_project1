@@ -29,10 +29,15 @@ Includes the following packages and their functionalities used in code:
 
 
 ### Example 
+![Screenshot (14)](https://user-images.githubusercontent.com/55368407/70726634-64e72f00-1ccc-11ea-836e-0b17ccc9e1f8.png)
 
+![Screenshot (15)](https://user-images.githubusercontent.com/55368407/70727072-0c646180-1ccd-11ea-8f80-0129cacaebea.png)
 
 
 ### Errors
 
 
 ### References
+The following websites were used as reference for code with modifications to met the project's objective:
+* https://pythonprogramming.net/how-to-embed-matplotlib-graph-tkinter-gui/
+* https://pythonprogramming.net/embedding-live-matplotlib-graph-tkinter-gui/
