@@ -9,6 +9,7 @@ In our research, it is extremely important to monitor the general well-being of 
 
 We cannot allow any primate to fall below a designated weight threshold, as it may be indicative of dehydration, fatigue, or illness, so a detailed daily log of this information must be kept. In our lab, we currently have physical records of these logs, which are extremely wasteful and limited in it's capabilities. The purpose of this project is to digitalize this process, allowing us to expand our ability to assess individual primates' trends through graphing and to create a more modernized method of saving, storing, and analyzing these key data sets. 
 
+
 ### How to Use
 *Prerequisite: Have a .csv file for the individual primate prepared, this way the data will live update your record and run through the code simtaneously*
 1. Launch GUI Home 
@@ -48,6 +49,9 @@ Includes the following packages and their functionalities used in code:
 
 
 ### Errors
+Python 3.7 tkinter backend embedded with matplotlib is known to crash on macOS. There have also been some variations of errors whether the code is ran in Jupyter(Anaconda) or PyCharm while developing this project.
+
+Source: https://github.com/matplotlib/matplotlib/issues/14999
 
 
 ### References
